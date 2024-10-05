@@ -11,7 +11,7 @@ I'm really happy that this is the top repo when searched up on google, BUT can y
 
 ## Pin of shame:
 
-These people just decided to fork the repo for some reason? They also did this to many different repo's of different user's
+Sone people just decided to fork the repo for some reason? They also did this to many different repo's of different user's
 
 ## Prerequisites:
 
